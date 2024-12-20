@@ -1,0 +1,34 @@
+D:\projects\SleepMonitor\SleepMonitor.Infrastructure\bin\Debug\net8.0\SleepMonitor.Infrastructure.deps.json
+D:\projects\SleepMonitor\SleepMonitor.Infrastructure\bin\Debug\net8.0\SleepMonitor.Infrastructure.dll
+D:\projects\SleepMonitor\SleepMonitor.Infrastructure\bin\Debug\net8.0\SleepMonitor.Infrastructure.pdb
+D:\projects\SleepMonitor\SleepMonitor.Infrastructure\bin\Debug\net8.0\SleepMonitor.Application.dll
+D:\projects\SleepMonitor\SleepMonitor.Infrastructure\bin\Debug\net8.0\SleepMonitor.Domain.dll
+D:\projects\SleepMonitor\SleepMonitor.Infrastructure\bin\Debug\net8.0\SleepMonitor.Application.pdb
+D:\projects\SleepMonitor\SleepMonitor.Infrastructure\bin\Debug\net8.0\SleepMonitor.Domain.pdb
+D:\projects\SleepMonitor\SleepMonitor.Infrastructure\obj\Debug\net8.0\SleepMonitor.Infrastructure.csproj.AssemblyReference.cache
+D:\projects\SleepMonitor\SleepMonitor.Infrastructure\obj\Debug\net8.0\SleepMonitor.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\SleepMonitor\SleepMonitor.Infrastructure\obj\Debug\net8.0\SleepMonitor.Infrastructure.AssemblyInfoInputs.cache
+D:\projects\SleepMonitor\SleepMonitor.Infrastructure\obj\Debug\net8.0\SleepMonitor.Infrastructure.AssemblyInfo.cs
+D:\projects\SleepMonitor\SleepMonitor.Infrastructure\obj\Debug\net8.0\SleepMonitor.Infrastructure.csproj.CoreCompileInputs.cache
+D:\projects\SleepMonitor\SleepMonitor.Infrastructure\obj\Debug\net8.0\SleepMonitor.Infrastructure.dll
+D:\projects\SleepMonitor\SleepMonitor.Infrastructure\obj\Debug\net8.0\refint\SleepMonitor.Infrastructure.dll
+D:\projects\SleepMonitor\SleepMonitor.Infrastructure\obj\Debug\net8.0\SleepMonitor.Infrastructure.pdb
+D:\projects\SleepMonitor\SleepMonitor.Infrastructure\obj\Debug\net8.0\ref\SleepMonitor.Infrastructure.dll
+D:\projects\SleepMonitor\SleepMonitor.Infrastructure\obj\Debug\net8.0\SleepMon.B4252ECF.Up2Date
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Infrastructure\bin\Debug\net8.0\SleepMonitor.Infrastructure.deps.json
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Infrastructure\bin\Debug\net8.0\SleepMonitor.Infrastructure.dll
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Infrastructure\bin\Debug\net8.0\SleepMonitor.Infrastructure.pdb
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Infrastructure\bin\Debug\net8.0\SleepMonitor.Application.dll
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Infrastructure\bin\Debug\net8.0\SleepMonitor.Domain.dll
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Infrastructure\bin\Debug\net8.0\SleepMonitor.Application.pdb
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Infrastructure\bin\Debug\net8.0\SleepMonitor.Domain.pdb
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Infrastructure\obj\Debug\net8.0\SleepMonitor.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Infrastructure\obj\Debug\net8.0\SleepMonitor.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Infrastructure\obj\Debug\net8.0\SleepMonitor.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Infrastructure\obj\Debug\net8.0\SleepMonitor.Infrastructure.AssemblyInfo.cs
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Infrastructure\obj\Debug\net8.0\SleepMonitor.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Infrastructure\obj\Debug\net8.0\SleepMon.B4252ECF.Up2Date
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Infrastructure\obj\Debug\net8.0\SleepMonitor.Infrastructure.dll
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Infrastructure\obj\Debug\net8.0\refint\SleepMonitor.Infrastructure.dll
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Infrastructure\obj\Debug\net8.0\SleepMonitor.Infrastructure.pdb
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Infrastructure\obj\Debug\net8.0\ref\SleepMonitor.Infrastructure.dll

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "0J/pOpPo8DJ+6jdqO0jZiYTyTi4rQhM/IEpaVjV4gkI=",
+  "Source": "SleepMonitor.API",
+  "BasePath": "_content/SleepMonitor.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

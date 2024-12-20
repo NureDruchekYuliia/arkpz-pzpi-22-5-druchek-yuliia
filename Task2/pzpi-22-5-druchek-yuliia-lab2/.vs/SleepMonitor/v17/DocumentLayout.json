@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\desktop\\new folder\\sleepmonitor\\sleepmonitor.application\\recommendations\\commands\\updaterecommendation\\updaterecommendationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\recommendations\\commands\\updaterecommendation\\updaterecommendationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\desktop\\new folder\\sleepmonitor\\sleepmonitor.application\\recommendations\\commands\\updaterecommendation\\updaterecommendationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\recommendations\\commands\\updaterecommendation\\updaterecommendationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D560192-D773-4A7C-8F58-73CBE0A9BC30}|SleepMonitor.API\\SleepMonitor.API.csproj|c:\\users\\serhii\\desktop\\new folder\\sleepmonitor\\sleepmonitor.api\\controllers\\recommendationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D560192-D773-4A7C-8F58-73CBE0A9BC30}|SleepMonitor.API\\SleepMonitor.API.csproj|solutionrelative:sleepmonitor.api\\controllers\\recommendationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D560192-D773-4A7C-8F58-73CBE0A9BC30}|SleepMonitor.API\\SleepMonitor.API.csproj|c:\\users\\serhii\\desktop\\new folder\\sleepmonitor\\sleepmonitor.api\\controllers\\sleeprecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D560192-D773-4A7C-8F58-73CBE0A9BC30}|SleepMonitor.API\\SleepMonitor.API.csproj|solutionrelative:sleepmonitor.api\\controllers\\sleeprecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D560192-D773-4A7C-8F58-73CBE0A9BC30}|SleepMonitor.API\\SleepMonitor.API.csproj|c:\\users\\serhii\\desktop\\new folder\\sleepmonitor\\sleepmonitor.api\\controllers\\iotdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D560192-D773-4A7C-8F58-73CBE0A9BC30}|SleepMonitor.API\\SleepMonitor.API.csproj|solutionrelative:sleepmonitor.api\\controllers\\iotdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D560192-D773-4A7C-8F58-73CBE0A9BC30}|SleepMonitor.API\\SleepMonitor.API.csproj|c:\\users\\serhii\\desktop\\new folder\\sleepmonitor\\sleepmonitor.api\\controllers\\identitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D560192-D773-4A7C-8F58-73CBE0A9BC30}|SleepMonitor.API\\SleepMonitor.API.csproj|solutionrelative:sleepmonitor.api\\controllers\\identitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\desktop\\new folder\\sleepmonitor\\sleepmonitor.application\\recommendations\\dtos\\recommendationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\recommendations\\dtos\\recommendationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\desktop\\new folder\\sleepmonitor\\sleepmonitor.application\\recommendations\\commands\\deleterecommendation\\deleterecommendationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\recommendations\\commands\\deleterecommendation\\deleterecommendationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\desktop\\new folder\\sleepmonitor\\sleepmonitor.application\\recommendations\\commands\\addrecommendation\\addrecommendationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\recommendations\\commands\\addrecommendation\\addrecommendationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\desktop\\new folder\\sleepmonitor\\sleepmonitor.application\\recommendations\\commands\\deleterecommendation\\deleterecommendationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\recommendations\\commands\\deleterecommendation\\deleterecommendationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\desktop\\new folder\\sleepmonitor\\sleepmonitor.application\\recommendations\\commands\\addrecommendation\\addrecommendationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\recommendations\\commands\\addrecommendation\\addrecommendationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\desktop\\new folder\\sleepmonitor\\sleepmonitor.application\\recommendations\\queries\\getallrecommendations\\getallrecommendationsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\recommendations\\queries\\getallrecommendations\\getallrecommendationsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\desktop\\new folder\\sleepmonitor\\sleepmonitor.application\\recommendations\\queries\\getrecommendationbyid\\getrecommendationbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\recommendations\\queries\\getrecommendationbyid\\getrecommendationbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\desktop\\new folder\\sleepmonitor\\sleepmonitor.application\\recommendations\\queries\\getrecommendationbyid\\getrecommendationbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\recommendations\\queries\\getrecommendationbyid\\getrecommendationbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\desktop\\new folder\\sleepmonitor\\sleepmonitor.application\\recommendations\\queries\\getallrecommendations\\getallrecommendationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\recommendations\\queries\\getallrecommendations\\getallrecommendationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0514316C-7A0D-4986-A197-24B97BC1153D}|SleepMonitor.Infrastructure\\SleepMonitor.Infrastructure.csproj|c:\\users\\serhii\\desktop\\new folder\\sleepmonitor\\sleepmonitor.infrastructure\\repositories\\recommendationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0514316C-7A0D-4986-A197-24B97BC1153D}|SleepMonitor.Infrastructure\\SleepMonitor.Infrastructure.csproj|solutionrelative:sleepmonitor.infrastructure\\repositories\\recommendationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBC1237-1C38-4960-9BB1-B94CE02757FE}|SleepMonitor.Domain\\SleepMonitor.Domain.csproj|c:\\users\\serhii\\desktop\\new folder\\sleepmonitor\\sleepmonitor.domain\\repositories\\irecommendationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBC1237-1C38-4960-9BB1-B94CE02757FE}|SleepMonitor.Domain\\SleepMonitor.Domain.csproj|solutionrelative:sleepmonitor.domain\\repositories\\irecommendationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBC1237-1C38-4960-9BB1-B94CE02757FE}|SleepMonitor.Domain\\SleepMonitor.Domain.csproj|c:\\users\\serhii\\desktop\\new folder\\sleepmonitor\\sleepmonitor.domain\\repositories\\iiotdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBC1237-1C38-4960-9BB1-B94CE02757FE}|SleepMonitor.Domain\\SleepMonitor.Domain.csproj|solutionrelative:sleepmonitor.domain\\repositories\\iiotdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0514316C-7A0D-4986-A197-24B97BC1153D}|SleepMonitor.Infrastructure\\SleepMonitor.Infrastructure.csproj|c:\\users\\serhii\\desktop\\new folder\\sleepmonitor\\sleepmonitor.infrastructure\\repositories\\iotdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0514316C-7A0D-4986-A197-24B97BC1153D}|SleepMonitor.Infrastructure\\SleepMonitor.Infrastructure.csproj|solutionrelative:sleepmonitor.infrastructure\\repositories\\iotdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0514316C-7A0D-4986-A197-24B97BC1153D}|SleepMonitor.Infrastructure\\SleepMonitor.Infrastructure.csproj|c:\\users\\serhii\\desktop\\new folder\\sleepmonitor\\sleepmonitor.infrastructure\\extensions\\servicecollectionextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0514316C-7A0D-4986-A197-24B97BC1153D}|SleepMonitor.Infrastructure\\SleepMonitor.Infrastructure.csproj|solutionrelative:sleepmonitor.infrastructure\\extensions\\servicecollectionextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\desktop\\new folder\\sleepmonitor\\sleepmonitor.application\\sleepmonitor.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\sleepmonitor.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 213,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IoTDataController.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.API\\Controllers\\IoTDataController.cs",
+              "RelativeDocumentMoniker": "SleepMonitor.API\\Controllers\\IoTDataController.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.API\\Controllers\\IoTDataController.cs",
+              "RelativeToolTip": "SleepMonitor.API\\Controllers\\IoTDataController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:46:36.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IdentityController.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.API\\Controllers\\IdentityController.cs",
+              "RelativeDocumentMoniker": "SleepMonitor.API\\Controllers\\IdentityController.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.API\\Controllers\\IdentityController.cs",
+              "RelativeToolTip": "SleepMonitor.API\\Controllers\\IdentityController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:45:39.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SleepRecordController.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.API\\Controllers\\SleepRecordController.cs",
+              "RelativeDocumentMoniker": "SleepMonitor.API\\Controllers\\SleepRecordController.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.API\\Controllers\\SleepRecordController.cs",
+              "RelativeToolTip": "SleepMonitor.API\\Controllers\\SleepRecordController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:45:56.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateRecommendationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Commands\\UpdateRecommendation\\UpdateRecommendationCommand.cs",
+              "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\Commands\\UpdateRecommendation\\UpdateRecommendationCommand.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Commands\\UpdateRecommendation\\UpdateRecommendationCommand.cs",
+              "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\Commands\\UpdateRecommendation\\UpdateRecommendationCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:20:40.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateRecommendationCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Commands\\UpdateRecommendation\\UpdateRecommendationCommandHandler.cs",
+              "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\Commands\\UpdateRecommendation\\UpdateRecommendationCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Commands\\UpdateRecommendation\\UpdateRecommendationCommandHandler.cs",
+              "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\Commands\\UpdateRecommendation\\UpdateRecommendationCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:20:46.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RecommendationProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Dtos\\RecommendationProfile.cs",
+              "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\Dtos\\RecommendationProfile.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Dtos\\RecommendationProfile.cs",
+              "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\Dtos\\RecommendationProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:17:59.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecommendationController.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.API\\Controllers\\RecommendationController.cs",
+              "RelativeDocumentMoniker": "SleepMonitor.API\\Controllers\\RecommendationController.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.API\\Controllers\\RecommendationController.cs",
+              "RelativeToolTip": "SleepMonitor.API\\Controllers\\RecommendationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:13:10.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteRecommendationCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Commands\\DeleteRecommendation\\DeleteRecommendationCommandHandler.cs",
+              "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\Commands\\DeleteRecommendation\\DeleteRecommendationCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Commands\\DeleteRecommendation\\DeleteRecommendationCommandHandler.cs",
+              "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\Commands\\DeleteRecommendation\\DeleteRecommendationCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:21:40.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteRecommendationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Commands\\DeleteRecommendation\\DeleteRecommendationCommand.cs",
+              "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\Commands\\DeleteRecommendation\\DeleteRecommendationCommand.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Commands\\DeleteRecommendation\\DeleteRecommendationCommand.cs",
+              "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\Commands\\DeleteRecommendation\\DeleteRecommendationCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:21:33.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddRecommendationCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Commands\\AddRecommendation\\AddRecommendationCommandHandler.cs",
+              "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\Commands\\AddRecommendation\\AddRecommendationCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Commands\\AddRecommendation\\AddRecommendationCommandHandler.cs",
+              "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\Commands\\AddRecommendation\\AddRecommendationCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:19:34.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddRecommendationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Commands\\AddRecommendation\\AddRecommendationCommand.cs",
+              "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\Commands\\AddRecommendation\\AddRecommendationCommand.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Commands\\AddRecommendation\\AddRecommendationCommand.cs",
+              "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\Commands\\AddRecommendation\\AddRecommendationCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:19:28.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetAllRecommendationsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Queries\\GetAllRecommendations\\GetAllRecommendationsQueryHandler.cs",
+              "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\Queries\\GetAllRecommendations\\GetAllRecommendationsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Queries\\GetAllRecommendations\\GetAllRecommendationsQueryHandler.cs",
+              "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\Queries\\GetAllRecommendations\\GetAllRecommendationsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:23:08.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetRecommendationByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationById\\GetRecommendationByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationById\\GetRecommendationByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationById\\GetRecommendationByIdQueryHandler.cs",
+              "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationById\\GetRecommendationByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:23:51.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetRecommendationByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationById\\GetRecommendationByIdQuery.cs",
+              "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationById\\GetRecommendationByIdQuery.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationById\\GetRecommendationByIdQuery.cs",
+              "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationById\\GetRecommendationByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:23:41.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetAllRecommendationsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Queries\\GetAllRecommendations\\GetAllRecommendationsQuery.cs",
+              "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\Queries\\GetAllRecommendations\\GetAllRecommendationsQuery.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Queries\\GetAllRecommendations\\GetAllRecommendationsQuery.cs",
+              "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\Queries\\GetAllRecommendations\\GetAllRecommendationsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:22:52.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RecommendationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Infrastructure\\Repositories\\RecommendationRepository.cs",
+              "RelativeDocumentMoniker": "SleepMonitor.Infrastructure\\Repositories\\RecommendationRepository.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Infrastructure\\Repositories\\RecommendationRepository.cs",
+              "RelativeToolTip": "SleepMonitor.Infrastructure\\Repositories\\RecommendationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:25:04.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRecommendationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Domain\\Repositories\\IRecommendationRepository.cs",
+              "RelativeDocumentMoniker": "SleepMonitor.Domain\\Repositories\\IRecommendationRepository.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Domain\\Repositories\\IRecommendationRepository.cs",
+              "RelativeToolTip": "SleepMonitor.Domain\\Repositories\\IRecommendationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:25:55.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IIotDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Domain\\Repositories\\IIotDataRepository.cs",
+              "RelativeDocumentMoniker": "SleepMonitor.Domain\\Repositories\\IIotDataRepository.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Domain\\Repositories\\IIotDataRepository.cs",
+              "RelativeToolTip": "SleepMonitor.Domain\\Repositories\\IIotDataRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:35:05.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IotDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Infrastructure\\Repositories\\IotDataRepository.cs",
+              "RelativeDocumentMoniker": "SleepMonitor.Infrastructure\\Repositories\\IotDataRepository.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Infrastructure\\Repositories\\IotDataRepository.cs",
+              "RelativeToolTip": "SleepMonitor.Infrastructure\\Repositories\\IotDataRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:30:14.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ServiceCollectionExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Infrastructure\\Extensions\\ServiceCollectionExtentions.cs",
+              "RelativeDocumentMoniker": "SleepMonitor.Infrastructure\\Extensions\\ServiceCollectionExtentions.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Infrastructure\\Extensions\\ServiceCollectionExtentions.cs",
+              "RelativeToolTip": "SleepMonitor.Infrastructure\\Extensions\\ServiceCollectionExtentions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:26:08.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SleepMonitor.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Application\\SleepMonitor.Application.csproj",
+              "RelativeDocumentMoniker": "SleepMonitor.Application\\SleepMonitor.Application.csproj",
+              "ToolTip": "C:\\Users\\Serhii\\Desktop\\New folder\\SleepMonitor\\SleepMonitor.Application\\SleepMonitor.Application.csproj",
+              "RelativeToolTip": "SleepMonitor.Application\\SleepMonitor.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T17:19:58.633Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

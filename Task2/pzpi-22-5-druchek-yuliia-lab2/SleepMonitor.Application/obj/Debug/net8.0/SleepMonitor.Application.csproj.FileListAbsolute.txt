@@ -1,0 +1,30 @@
+D:\projects\SleepMonitor\SleepMonitor.Application\bin\Debug\net8.0\SleepMonitor.Application.deps.json
+D:\projects\SleepMonitor\SleepMonitor.Application\bin\Debug\net8.0\SleepMonitor.Application.dll
+D:\projects\SleepMonitor\SleepMonitor.Application\bin\Debug\net8.0\SleepMonitor.Application.pdb
+D:\projects\SleepMonitor\SleepMonitor.Application\bin\Debug\net8.0\SleepMonitor.Domain.dll
+D:\projects\SleepMonitor\SleepMonitor.Application\bin\Debug\net8.0\SleepMonitor.Domain.pdb
+D:\projects\SleepMonitor\SleepMonitor.Application\obj\Debug\net8.0\SleepMonitor.Application.csproj.AssemblyReference.cache
+D:\projects\SleepMonitor\SleepMonitor.Application\obj\Debug\net8.0\SleepMonitor.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\SleepMonitor\SleepMonitor.Application\obj\Debug\net8.0\SleepMonitor.Application.AssemblyInfoInputs.cache
+D:\projects\SleepMonitor\SleepMonitor.Application\obj\Debug\net8.0\SleepMonitor.Application.AssemblyInfo.cs
+D:\projects\SleepMonitor\SleepMonitor.Application\obj\Debug\net8.0\SleepMonitor.Application.csproj.CoreCompileInputs.cache
+D:\projects\SleepMonitor\SleepMonitor.Application\obj\Debug\net8.0\SleepMonitor.Application.dll
+D:\projects\SleepMonitor\SleepMonitor.Application\obj\Debug\net8.0\refint\SleepMonitor.Application.dll
+D:\projects\SleepMonitor\SleepMonitor.Application\obj\Debug\net8.0\SleepMonitor.Application.pdb
+D:\projects\SleepMonitor\SleepMonitor.Application\obj\Debug\net8.0\ref\SleepMonitor.Application.dll
+D:\projects\SleepMonitor\SleepMonitor.Application\obj\Debug\net8.0\SleepMon.8ABC4DEF.Up2Date
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Application\obj\Debug\net8.0\SleepMonitor.Application.csproj.AssemblyReference.cache
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Application\obj\Debug\net8.0\SleepMonitor.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Application\obj\Debug\net8.0\SleepMonitor.Application.AssemblyInfoInputs.cache
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Application\obj\Debug\net8.0\SleepMonitor.Application.AssemblyInfo.cs
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Application\obj\Debug\net8.0\SleepMonitor.Application.csproj.CoreCompileInputs.cache
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Application\obj\Debug\net8.0\SleepMonitor.Application.dll
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Application\obj\Debug\net8.0\refint\SleepMonitor.Application.dll
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Application\obj\Debug\net8.0\SleepMonitor.Application.pdb
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Application\bin\Debug\net8.0\SleepMonitor.Application.deps.json
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Application\bin\Debug\net8.0\SleepMonitor.Application.dll
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Application\bin\Debug\net8.0\SleepMonitor.Application.pdb
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Application\bin\Debug\net8.0\SleepMonitor.Domain.dll
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Application\bin\Debug\net8.0\SleepMonitor.Domain.pdb
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Application\obj\Debug\net8.0\SleepMon.8ABC4DEF.Up2Date
+C:\Users\Serhii\Desktop\New folder\SleepMonitor\SleepMonitor.Application\obj\Debug\net8.0\ref\SleepMonitor.Application.dll

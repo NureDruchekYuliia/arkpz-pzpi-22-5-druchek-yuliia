@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SleepMonitor.API", "SleepMonitor.API\SleepMonitor.API.csproj", "{9D560192-D773-4A7C-8F58-73CBE0A9BC30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SleepMonitor.Domain", "SleepMonitor.Domain\SleepMonitor.Domain.csproj", "{8DBC1237-1C38-4960-9BB1-B94CE02757FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SleepMonitor.Application", "SleepMonitor.Application\SleepMonitor.Application.csproj", "{7595B130-0CD9-4AB1-A941-BCC198FB640D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SleepMonitor.Infrastructure", "SleepMonitor.Infrastructure\SleepMonitor.Infrastructure.csproj", "{0514316C-7A0D-4986-A197-24B97BC1153D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D560192-D773-4A7C-8F58-73CBE0A9BC30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D560192-D773-4A7C-8F58-73CBE0A9BC30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D560192-D773-4A7C-8F58-73CBE0A9BC30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D560192-D773-4A7C-8F58-73CBE0A9BC30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DBC1237-1C38-4960-9BB1-B94CE02757FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DBC1237-1C38-4960-9BB1-B94CE02757FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DBC1237-1C38-4960-9BB1-B94CE02757FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DBC1237-1C38-4960-9BB1-B94CE02757FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7595B130-0CD9-4AB1-A941-BCC198FB640D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7595B130-0CD9-4AB1-A941-BCC198FB640D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7595B130-0CD9-4AB1-A941-BCC198FB640D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7595B130-0CD9-4AB1-A941-BCC198FB640D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0514316C-7A0D-4986-A197-24B97BC1153D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0514316C-7A0D-4986-A197-24B97BC1153D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0514316C-7A0D-4986-A197-24B97BC1153D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0514316C-7A0D-4986-A197-24B97BC1153D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F06B5B6-3C47-40BB-99AE-C7B12F499D2D}
+	EndGlobalSection
+EndGlobal
