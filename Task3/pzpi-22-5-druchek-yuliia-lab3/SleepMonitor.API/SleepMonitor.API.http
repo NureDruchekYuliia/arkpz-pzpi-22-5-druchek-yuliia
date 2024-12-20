@@ -1,0 +1,50 @@
+@SleepMonitor.API_HostAddress = https://localhost:7134
+
+
+GET {{SleepMonitor.API_HostAddress}}/api/sleeprecord
+
+###
+
+
+
+GET {{SleepMonitor.API_HostAddress}}/api/sleeprecord/239bc95b-8936-44a7-9bc3-08dd187c89d4
+
+###
+
+POST {{SleepMonitor.API_HostAddress}}/api/sleeprecord
+Content-Type: application/json
+
+{
+  "Date": "2024-12-06",
+  "SleepStart": "2024-12-05T22:00:00",
+  "SleepEnd": "2024-12-06T16:00:00",
+  "Quality": 7
+}
+
+###
+
+DELETE {{SleepMonitor.API_HostAddress}}/api/sleeprecord/ba518e8d-58c4-41bd-62d1-08dd187ab221
+
+###
+
+PATCH {{SleepMonitor.API_HostAddress}}/api/sleeprecord/5b2b12c1-4fb6-44d4-848c-08dd1907318a
+Content-Type: application/json
+
+{
+   "date": "2024-12-06",
+    "sleepStart": "2024-12-05T22:00:00",
+    "sleepEnd": "2024-12-06T16:00:00",
+    "duration": "18:00:00",
+    "quality": 4
+}
+
+###
+
+POST {{SleepMonitor.API_HostAddress}}/register
+Content-Type: application/json
+
+{
+  "email": "testuser@test.com",
+  "password": "Password1!"
+}
+
