@@ -1,193 +1,193 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\projects\\SleepMonitor\\",
+  "WorkspaceRootPath": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D560192-D773-4A7C-8F58-73CBE0A9BC30}|SleepMonitor.API\\SleepMonitor.API.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.api\\controllers\\sleeprecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D560192-D773-4A7C-8F58-73CBE0A9BC30}|SleepMonitor.API\\SleepMonitor.API.csproj|solutionrelative:sleepmonitor.api\\controllers\\sleeprecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D560192-D773-4A7C-8F58-73CBE0A9BC30}|SleepMonitor.API\\SleepMonitor.API.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.api\\controllers\\recommendationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D560192-D773-4A7C-8F58-73CBE0A9BC30}|SleepMonitor.API\\SleepMonitor.API.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.api\\controllers\\recommendationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D560192-D773-4A7C-8F58-73CBE0A9BC30}|SleepMonitor.API\\SleepMonitor.API.csproj|solutionrelative:sleepmonitor.api\\controllers\\recommendationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0514316C-7A0D-4986-A197-24B97BC1153D}|SleepMonitor.Infrastructure\\SleepMonitor.Infrastructure.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.infrastructure\\repositories\\sleeprecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0514316C-7A0D-4986-A197-24B97BC1153D}|SleepMonitor.Infrastructure\\SleepMonitor.Infrastructure.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.infrastructure\\repositories\\sleeprecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0514316C-7A0D-4986-A197-24B97BC1153D}|SleepMonitor.Infrastructure\\SleepMonitor.Infrastructure.csproj|solutionrelative:sleepmonitor.infrastructure\\repositories\\sleeprecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0514316C-7A0D-4986-A197-24B97BC1153D}|SleepMonitor.Infrastructure\\SleepMonitor.Infrastructure.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.infrastructure\\repositories\\recommendationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D560192-D773-4A7C-8F58-73CBE0A9BC30}|SleepMonitor.API\\SleepMonitor.API.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.api\\controllers\\sleeprecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D560192-D773-4A7C-8F58-73CBE0A9BC30}|SleepMonitor.API\\SleepMonitor.API.csproj|solutionrelative:sleepmonitor.api\\controllers\\sleeprecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0514316C-7A0D-4986-A197-24B97BC1153D}|SleepMonitor.Infrastructure\\SleepMonitor.Infrastructure.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.infrastructure\\repositories\\recommendationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0514316C-7A0D-4986-A197-24B97BC1153D}|SleepMonitor.Infrastructure\\SleepMonitor.Infrastructure.csproj|solutionrelative:sleepmonitor.infrastructure\\repositories\\recommendationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\sleeprecords\\commands\\updatesleeprecord\\updatesleeprecordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\sleeprecords\\commands\\updatesleeprecord\\updatesleeprecordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\sleeprecords\\commands\\updatesleeprecord\\updatesleeprecordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\recommendations\\commands\\updaterecommendation\\updaterecommendationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\recommendations\\commands\\updaterecommendation\\updaterecommendationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\recommendations\\commands\\updaterecommendation\\updaterecommendationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\recommendations\\commands\\updaterecommendation\\updaterecommendationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\recommendations\\commands\\updaterecommendation\\updaterecommendationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\recommendations\\commands\\updaterecommendation\\updaterecommendationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\sleeprecords\\commands\\updatesleeprecord\\updatesleeprecordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\sleeprecords\\commands\\updatesleeprecord\\updatesleeprecordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\sleeprecords\\commands\\updatesleeprecord\\updatesleeprecordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\recommendations\\checkconditions\\checkconditionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\recommendations\\checkconditions\\checkconditionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\recommendations\\checkconditions\\checkconditionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\recommendations\\checkconditions\\icheckconditionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\recommendations\\checkconditions\\icheckconditionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\recommendations\\checkconditions\\icheckconditionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\sleeprecords\\commands\\addsleeprecord\\addsleeprecordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\sleeprecords\\commands\\addsleeprecord\\addsleeprecordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\sleeprecords\\commands\\addsleeprecord\\addsleeprecordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0514316C-7A0D-4986-A197-24B97BC1153D}|SleepMonitor.Infrastructure\\SleepMonitor.Infrastructure.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.infrastructure\\persistence\\sleepmonitordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0514316C-7A0D-4986-A197-24B97BC1153D}|SleepMonitor.Infrastructure\\SleepMonitor.Infrastructure.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.infrastructure\\persistence\\sleepmonitordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0514316C-7A0D-4986-A197-24B97BC1153D}|SleepMonitor.Infrastructure\\SleepMonitor.Infrastructure.csproj|solutionrelative:sleepmonitor.infrastructure\\persistence\\sleepmonitordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0514316C-7A0D-4986-A197-24B97BC1153D}|SleepMonitor.Infrastructure\\SleepMonitor.Infrastructure.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.infrastructure\\seeders\\recommendationseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0514316C-7A0D-4986-A197-24B97BC1153D}|SleepMonitor.Infrastructure\\SleepMonitor.Infrastructure.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.infrastructure\\seeders\\recommendationseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0514316C-7A0D-4986-A197-24B97BC1153D}|SleepMonitor.Infrastructure\\SleepMonitor.Infrastructure.csproj|solutionrelative:sleepmonitor.infrastructure\\seeders\\recommendationseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\sleeprecords\\queries\\getsleeprecordsbydate\\getsleeprecordsbydatequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\sleeprecords\\queries\\getsleeprecordsbydate\\getsleeprecordsbydatequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\sleeprecords\\queries\\getsleeprecordsbydate\\getsleeprecordsbydatequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\sleeprecords\\queries\\getsleeprecordsbydate\\getsleeprecordsbydatequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\sleeprecords\\queries\\getsleeprecordsbydate\\getsleeprecordsbydatequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\sleeprecords\\queries\\getsleeprecordsbydate\\getsleeprecordsbydatequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\recommendations\\queries\\getrecommendationsbysleeprecord\\getrecommendationsbysleeprecordqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\recommendations\\queries\\getrecommendationsbysleeprecord\\getrecommendationsbysleeprecordqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\recommendations\\queries\\getrecommendationsbysleeprecord\\getrecommendationsbysleeprecordqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\sleeprecords\\queries\\getsleeprecordbyid\\getsleeprecordbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\sleeprecords\\queries\\getsleeprecordbyid\\getsleeprecordbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\sleeprecords\\queries\\getsleeprecordbyid\\getsleeprecordbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\recommendations\\queries\\getrecommendationsbysleeprecord\\getrecommendationsbysleeprecordquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\recommendations\\queries\\getrecommendationsbysleeprecord\\getrecommendationsbysleeprecordquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\recommendations\\queries\\getrecommendationsbysleeprecord\\getrecommendationsbysleeprecordquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\recommendations\\dtos\\recommendationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\recommendations\\dtos\\recommendationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\recommendations\\dtos\\recommendationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\recommendations\\queries\\getallrecommendations\\getallrecommendationsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\recommendations\\queries\\getallrecommendations\\getallrecommendationsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\recommendations\\queries\\getallrecommendations\\getallrecommendationsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\recommendations\\queries\\getrecommendationbyid\\getrecommendationbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\recommendations\\queries\\getrecommendationbyid\\getrecommendationbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\recommendations\\queries\\getrecommendationbyid\\getrecommendationbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\recommendations\\queries\\getrecommendationbyid\\getrecommendationbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\recommendations\\queries\\getrecommendationbyid\\getrecommendationbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\recommendations\\queries\\getrecommendationbyid\\getrecommendationbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DBC1237-1C38-4960-9BB1-B94CE02757FE}|SleepMonitor.Domain\\SleepMonitor.Domain.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.domain\\repositories\\irecommendationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DBC1237-1C38-4960-9BB1-B94CE02757FE}|SleepMonitor.Domain\\SleepMonitor.Domain.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.domain\\repositories\\irecommendationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DBC1237-1C38-4960-9BB1-B94CE02757FE}|SleepMonitor.Domain\\SleepMonitor.Domain.csproj|solutionrelative:sleepmonitor.domain\\repositories\\irecommendationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\recommendations\\queries\\getallrecommendations\\getallrecommendationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\recommendations\\queries\\getallrecommendations\\getallrecommendationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\recommendations\\queries\\getallrecommendations\\getallrecommendationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\sleeprecords\\dtos\\sleeprecordprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\sleeprecords\\dtos\\sleeprecordprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\sleeprecords\\dtos\\sleeprecordprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\sleeprecords\\dtos\\sleeprecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\sleeprecords\\dtos\\sleeprecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\sleeprecords\\dtos\\sleeprecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\recommendations\\dtos\\recommendationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\recommendations\\dtos\\recommendationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\recommendations\\dtos\\recommendationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\recommendations\\dtos\\sleeprecommendationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\recommendations\\dtos\\sleeprecommendationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\recommendations\\dtos\\sleeprecommendationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DBC1237-1C38-4960-9BB1-B94CE02757FE}|SleepMonitor.Domain\\SleepMonitor.Domain.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.domain\\entities\\recommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DBC1237-1C38-4960-9BB1-B94CE02757FE}|SleepMonitor.Domain\\SleepMonitor.Domain.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.domain\\entities\\recommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DBC1237-1C38-4960-9BB1-B94CE02757FE}|SleepMonitor.Domain\\SleepMonitor.Domain.csproj|solutionrelative:sleepmonitor.domain\\entities\\recommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D560192-D773-4A7C-8F58-73CBE0A9BC30}|SleepMonitor.API\\SleepMonitor.API.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.api\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D560192-D773-4A7C-8F58-73CBE0A9BC30}|SleepMonitor.API\\SleepMonitor.API.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.api\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D560192-D773-4A7C-8F58-73CBE0A9BC30}|SleepMonitor.API\\SleepMonitor.API.csproj|solutionrelative:sleepmonitor.api\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0514316C-7A0D-4986-A197-24B97BC1153D}|SleepMonitor.Infrastructure\\SleepMonitor.Infrastructure.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.infrastructure\\extensions\\servicecollectionextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0514316C-7A0D-4986-A197-24B97BC1153D}|SleepMonitor.Infrastructure\\SleepMonitor.Infrastructure.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.infrastructure\\extensions\\servicecollectionextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0514316C-7A0D-4986-A197-24B97BC1153D}|SleepMonitor.Infrastructure\\SleepMonitor.Infrastructure.csproj|solutionrelative:sleepmonitor.infrastructure\\extensions\\servicecollectionextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D560192-D773-4A7C-8F58-73CBE0A9BC30}|SleepMonitor.API\\SleepMonitor.API.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.api\\controllers\\identitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D560192-D773-4A7C-8F58-73CBE0A9BC30}|SleepMonitor.API\\SleepMonitor.API.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.api\\controllers\\identitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D560192-D773-4A7C-8F58-73CBE0A9BC30}|SleepMonitor.API\\SleepMonitor.API.csproj|solutionrelative:sleepmonitor.api\\controllers\\identitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DBC1237-1C38-4960-9BB1-B94CE02757FE}|SleepMonitor.Domain\\SleepMonitor.Domain.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.domain\\enums\\propertytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DBC1237-1C38-4960-9BB1-B94CE02757FE}|SleepMonitor.Domain\\SleepMonitor.Domain.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.domain\\enums\\propertytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DBC1237-1C38-4960-9BB1-B94CE02757FE}|SleepMonitor.Domain\\SleepMonitor.Domain.csproj|solutionrelative:sleepmonitor.domain\\enums\\propertytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DBC1237-1C38-4960-9BB1-B94CE02757FE}|SleepMonitor.Domain\\SleepMonitor.Domain.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.domain\\enums\\comparisontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DBC1237-1C38-4960-9BB1-B94CE02757FE}|SleepMonitor.Domain\\SleepMonitor.Domain.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.domain\\enums\\comparisontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DBC1237-1C38-4960-9BB1-B94CE02757FE}|SleepMonitor.Domain\\SleepMonitor.Domain.csproj|solutionrelative:sleepmonitor.domain\\enums\\comparisontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D560192-D773-4A7C-8F58-73CBE0A9BC30}|SleepMonitor.API\\SleepMonitor.API.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.api\\controllers\\iotdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D560192-D773-4A7C-8F58-73CBE0A9BC30}|SleepMonitor.API\\SleepMonitor.API.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.api\\controllers\\iotdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D560192-D773-4A7C-8F58-73CBE0A9BC30}|SleepMonitor.API\\SleepMonitor.API.csproj|solutionrelative:sleepmonitor.api\\controllers\\iotdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0514316C-7A0D-4986-A197-24B97BC1153D}|SleepMonitor.Infrastructure\\SleepMonitor.Infrastructure.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.infrastructure\\repositories\\iotdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0514316C-7A0D-4986-A197-24B97BC1153D}|SleepMonitor.Infrastructure\\SleepMonitor.Infrastructure.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.infrastructure\\repositories\\iotdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0514316C-7A0D-4986-A197-24B97BC1153D}|SleepMonitor.Infrastructure\\SleepMonitor.Infrastructure.csproj|solutionrelative:sleepmonitor.infrastructure\\repositories\\iotdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\iotdatas\\queries\\getiotdatabydaterange\\getiotdatabydaterangequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\iotdatas\\queries\\getiotdatabydaterange\\getiotdatabydaterangequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\iotdatas\\queries\\getiotdatabydaterange\\getiotdatabydaterangequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\iotdatas\\queries\\getiotdatabydaterange\\getiotdatabydaterangequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\iotdatas\\queries\\getiotdatabydaterange\\getiotdatabydaterangequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\iotdatas\\queries\\getiotdatabydaterange\\getiotdatabydaterangequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D560192-D773-4A7C-8F58-73CBE0A9BC30}|SleepMonitor.API\\SleepMonitor.API.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D560192-D773-4A7C-8F58-73CBE0A9BC30}|SleepMonitor.API\\SleepMonitor.API.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D560192-D773-4A7C-8F58-73CBE0A9BC30}|SleepMonitor.API\\SleepMonitor.API.csproj|solutionrelative:sleepmonitor.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DBC1237-1C38-4960-9BB1-B94CE02757FE}|SleepMonitor.Domain\\SleepMonitor.Domain.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.domain\\repositories\\iiotdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DBC1237-1C38-4960-9BB1-B94CE02757FE}|SleepMonitor.Domain\\SleepMonitor.Domain.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.domain\\repositories\\iiotdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DBC1237-1C38-4960-9BB1-B94CE02757FE}|SleepMonitor.Domain\\SleepMonitor.Domain.csproj|solutionrelative:sleepmonitor.domain\\repositories\\iiotdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\recommendations\\commands\\addrecommendation\\addrecommendationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\recommendations\\commands\\addrecommendation\\addrecommendationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\recommendations\\commands\\addrecommendation\\addrecommendationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\recommendations\\commands\\deleterecommendation\\deleterecommendationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\recommendations\\commands\\deleterecommendation\\deleterecommendationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\recommendations\\commands\\deleterecommendation\\deleterecommendationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\recommendations\\commands\\addrecommendation\\addrecommendationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\recommendations\\commands\\addrecommendation\\addrecommendationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\recommendations\\commands\\addrecommendation\\addrecommendationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\recommendations\\commands\\deleterecommendation\\deleterecommendationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\recommendations\\commands\\deleterecommendation\\deleterecommendationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\recommendations\\commands\\deleterecommendation\\deleterecommendationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.application\\sleepmonitor.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.application\\sleepmonitor.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7595B130-0CD9-4AB1-A941-BCC198FB640D}|SleepMonitor.Application\\SleepMonitor.Application.csproj|solutionrelative:sleepmonitor.application\\sleepmonitor.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0514316C-7A0D-4986-A197-24B97BC1153D}|SleepMonitor.Infrastructure\\SleepMonitor.Infrastructure.csproj|d:\\projects\\sleepmonitor\\sleepmonitor.infrastructure\\migrations\\20241219194618_recommendationadditionalproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0514316C-7A0D-4986-A197-24B97BC1153D}|SleepMonitor.Infrastructure\\SleepMonitor.Infrastructure.csproj|c:\\users\\serhii\\documents\\github\\arkpz-pzpi-22-5-druchek-yuliia\\task3\\pzpi-22-5-druchek-yuliia-lab3\\sleepmonitor.infrastructure\\migrations\\20241219194618_recommendationadditionalproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0514316C-7A0D-4986-A197-24B97BC1153D}|SleepMonitor.Infrastructure\\SleepMonitor.Infrastructure.csproj|solutionrelative:sleepmonitor.infrastructure\\migrations\\20241219194618_recommendationadditionalproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -202,336 +202,312 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SleepRecordRepository.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Infrastructure\\Repositories\\SleepRecordRepository.cs",
-              "RelativeDocumentMoniker": "SleepMonitor.Infrastructure\\Repositories\\SleepRecordRepository.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Infrastructure\\Repositories\\SleepRecordRepository.cs",
-              "RelativeToolTip": "SleepMonitor.Infrastructure\\Repositories\\SleepRecordRepository.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwBEAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T12:35:05.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UpdateRecommendationCommandHandler.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Commands\\UpdateRecommendation\\UpdateRecommendationCommandHandler.cs",
-              "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\Commands\\UpdateRecommendation\\UpdateRecommendationCommandHandler.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Commands\\UpdateRecommendation\\UpdateRecommendationCommandHandler.cs",
-              "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\Commands\\UpdateRecommendation\\UpdateRecommendationCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T17:20:46.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "UpdateSleepRecordCommandHandler.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\SleepRecords\\Commands\\UpdateSleepRecord\\UpdateSleepRecordCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\SleepRecords\\Commands\\UpdateSleepRecord\\UpdateSleepRecordCommandHandler.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Application\\SleepRecords\\Commands\\UpdateSleepRecord\\UpdateSleepRecordCommandHandler.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\SleepRecords\\Commands\\UpdateSleepRecord\\UpdateSleepRecordCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\SleepRecords\\Commands\\UpdateSleepRecord\\UpdateSleepRecordCommandHandler.cs",
               "RelativeToolTip": "SleepMonitor.Application\\SleepRecords\\Commands\\UpdateSleepRecord\\UpdateSleepRecordCommandHandler.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAwwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T16:46:39.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T16:46:39.232Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SleepRecordController.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.API\\Controllers\\SleepRecordController.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.API\\Controllers\\SleepRecordController.cs",
               "RelativeDocumentMoniker": "SleepMonitor.API\\Controllers\\SleepRecordController.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.API\\Controllers\\SleepRecordController.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.API\\Controllers\\SleepRecordController.cs",
               "RelativeToolTip": "SleepMonitor.API\\Controllers\\SleepRecordController.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAUwD8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T19:45:56.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T19:45:56.647Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "RecommendationRepository.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Infrastructure\\Repositories\\RecommendationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Infrastructure\\Repositories\\RecommendationRepository.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Infrastructure\\Repositories\\RecommendationRepository.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Infrastructure\\Repositories\\RecommendationRepository.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Infrastructure\\Repositories\\RecommendationRepository.cs",
               "RelativeToolTip": "SleepMonitor.Infrastructure\\Repositories\\RecommendationRepository.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAYwCcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T17:25:04.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T17:25:04.699Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "RecommendationController.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.API\\Controllers\\RecommendationController.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.API\\Controllers\\RecommendationController.cs",
               "RelativeDocumentMoniker": "SleepMonitor.API\\Controllers\\RecommendationController.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.API\\Controllers\\RecommendationController.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.API\\Controllers\\RecommendationController.cs",
               "RelativeToolTip": "SleepMonitor.API\\Controllers\\RecommendationController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAQwCEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T17:13:10.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateRecommendationCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Commands\\UpdateRecommendation\\UpdateRecommendationCommandHandler.cs",
+              "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\Commands\\UpdateRecommendation\\UpdateRecommendationCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Commands\\UpdateRecommendation\\UpdateRecommendationCommandHandler.cs",
+              "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\Commands\\UpdateRecommendation\\UpdateRecommendationCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:20:46.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SleepRecordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Infrastructure\\Repositories\\SleepRecordRepository.cs",
+              "RelativeDocumentMoniker": "SleepMonitor.Infrastructure\\Repositories\\SleepRecordRepository.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Infrastructure\\Repositories\\SleepRecordRepository.cs",
+              "RelativeToolTip": "SleepMonitor.Infrastructure\\Repositories\\SleepRecordRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:35:05.872Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "UpdateRecommendationCommand.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Commands\\UpdateRecommendation\\UpdateRecommendationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Commands\\UpdateRecommendation\\UpdateRecommendationCommand.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\Commands\\UpdateRecommendation\\UpdateRecommendationCommand.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Commands\\UpdateRecommendation\\UpdateRecommendationCommand.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Commands\\UpdateRecommendation\\UpdateRecommendationCommand.cs",
               "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\Commands\\UpdateRecommendation\\UpdateRecommendationCommand.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAA5wA0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T17:20:40.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T17:20:40.676Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "AddSleepRecordCommandHandler.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\SleepRecords\\Commands\\AddSleepRecord\\AddSleepRecordCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\SleepRecords\\Commands\\AddSleepRecord\\AddSleepRecordCommandHandler.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Application\\SleepRecords\\Commands\\AddSleepRecord\\AddSleepRecordCommandHandler.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\SleepRecords\\Commands\\AddSleepRecord\\AddSleepRecordCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\SleepRecords\\Commands\\AddSleepRecord\\AddSleepRecordCommandHandler.cs",
               "RelativeToolTip": "SleepMonitor.Application\\SleepRecords\\Commands\\AddSleepRecord\\AddSleepRecordCommandHandler.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T16:40:08.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T16:40:08.211Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "CheckConditionsService.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\CheckConditions\\CheckConditionsService.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\CheckConditions\\CheckConditionsService.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\CheckConditions\\CheckConditionsService.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\CheckConditions\\CheckConditionsService.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\CheckConditions\\CheckConditionsService.cs",
               "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\CheckConditions\\CheckConditionsService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T21:15:29.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T21:15:29.384Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "ICheckConditionsService.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\CheckConditions\\ICheckConditionsService.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\CheckConditions\\ICheckConditionsService.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\CheckConditions\\ICheckConditionsService.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\CheckConditions\\ICheckConditionsService.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\CheckConditions\\ICheckConditionsService.cs",
               "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\CheckConditions\\ICheckConditionsService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T20:26:42.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T20:26:42.065Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "UpdateSleepRecordCommand.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\SleepRecords\\Commands\\UpdateSleepRecord\\UpdateSleepRecordCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\SleepRecords\\Commands\\UpdateSleepRecord\\UpdateSleepRecordCommand.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Application\\SleepRecords\\Commands\\UpdateSleepRecord\\UpdateSleepRecordCommand.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\SleepRecords\\Commands\\UpdateSleepRecord\\UpdateSleepRecordCommand.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\SleepRecords\\Commands\\UpdateSleepRecord\\UpdateSleepRecordCommand.cs",
               "RelativeToolTip": "SleepMonitor.Application\\SleepRecords\\Commands\\UpdateSleepRecord\\UpdateSleepRecordCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T16:46:39.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T16:46:39.995Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "SleepMonitorDbContext.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Infrastructure\\Persistence\\SleepMonitorDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Infrastructure\\Persistence\\SleepMonitorDbContext.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Infrastructure\\Persistence\\SleepMonitorDbContext.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Infrastructure\\Persistence\\SleepMonitorDbContext.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Infrastructure\\Persistence\\SleepMonitorDbContext.cs",
               "RelativeToolTip": "SleepMonitor.Infrastructure\\Persistence\\SleepMonitorDbContext.cs",
               "ViewState": "AgIAABMAAAAAAAAAAADwvysAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T22:16:17.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T22:16:17.602Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "RecommendationSeeder.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Infrastructure\\Seeders\\RecommendationSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Infrastructure\\Seeders\\RecommendationSeeder.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Infrastructure\\Seeders\\RecommendationSeeder.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Infrastructure\\Seeders\\RecommendationSeeder.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Infrastructure\\Seeders\\RecommendationSeeder.cs",
               "RelativeToolTip": "SleepMonitor.Infrastructure\\Seeders\\RecommendationSeeder.cs",
               "ViewState": "AgIAADoAAAAAAAAAAADwv1IAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T18:18:29.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T18:18:29.276Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "GetSleepRecordByIdQueryHandler.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\SleepRecords\\Queries\\GetSleepRecordById\\GetSleepRecordByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\SleepRecords\\Queries\\GetSleepRecordById\\GetSleepRecordByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Application\\SleepRecords\\Queries\\GetSleepRecordById\\GetSleepRecordByIdQueryHandler.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\SleepRecords\\Queries\\GetSleepRecordById\\GetSleepRecordByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\SleepRecords\\Queries\\GetSleepRecordById\\GetSleepRecordByIdQueryHandler.cs",
               "RelativeToolTip": "SleepMonitor.Application\\SleepRecords\\Queries\\GetSleepRecordById\\GetSleepRecordByIdQueryHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T22:27:27.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T22:27:27.118Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "GetSleepRecordsByDateQueryHandler.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\SleepRecords\\Queries\\GetSleepRecordsByDate\\GetSleepRecordsByDateQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\SleepRecords\\Queries\\GetSleepRecordsByDate\\GetSleepRecordsByDateQueryHandler.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Application\\SleepRecords\\Queries\\GetSleepRecordsByDate\\GetSleepRecordsByDateQueryHandler.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\SleepRecords\\Queries\\GetSleepRecordsByDate\\GetSleepRecordsByDateQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\SleepRecords\\Queries\\GetSleepRecordsByDate\\GetSleepRecordsByDateQueryHandler.cs",
               "RelativeToolTip": "SleepMonitor.Application\\SleepRecords\\Queries\\GetSleepRecordsByDate\\GetSleepRecordsByDateQueryHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T12:36:54.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T12:36:54.843Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "GetRecommendationsBySleepRecordQuery.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationsBySleepRecord\\GetRecommendationsBySleepRecordQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationsBySleepRecord\\GetRecommendationsBySleepRecordQuery.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationsBySleepRecord\\GetRecommendationsBySleepRecordQuery.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationsBySleepRecord\\GetRecommendationsBySleepRecordQuery.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationsBySleepRecord\\GetRecommendationsBySleepRecordQuery.cs",
               "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationsBySleepRecord\\GetRecommendationsBySleepRecordQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T12:11:00.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T12:11:00.119Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "GetRecommendationsBySleepRecordQueryHandler.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationsBySleepRecord\\GetRecommendationsBySleepRecordQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationsBySleepRecord\\GetRecommendationsBySleepRecordQueryHandler.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationsBySleepRecord\\GetRecommendationsBySleepRecordQueryHandler.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationsBySleepRecord\\GetRecommendationsBySleepRecordQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationsBySleepRecord\\GetRecommendationsBySleepRecordQueryHandler.cs",
               "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationsBySleepRecord\\GetRecommendationsBySleepRecordQueryHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T12:04:43.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T12:04:43.105Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "GetSleepRecordsByDateQuery.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\SleepRecords\\Queries\\GetSleepRecordsByDate\\GetSleepRecordsByDateQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\SleepRecords\\Queries\\GetSleepRecordsByDate\\GetSleepRecordsByDateQuery.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Application\\SleepRecords\\Queries\\GetSleepRecordsByDate\\GetSleepRecordsByDateQuery.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\SleepRecords\\Queries\\GetSleepRecordsByDate\\GetSleepRecordsByDateQuery.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\SleepRecords\\Queries\\GetSleepRecordsByDate\\GetSleepRecordsByDateQuery.cs",
               "RelativeToolTip": "SleepMonitor.Application\\SleepRecords\\Queries\\GetSleepRecordsByDate\\GetSleepRecordsByDateQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T12:42:55.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T12:42:55.668Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "GetAllRecommendationsQueryHandler.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Queries\\GetAllRecommendations\\GetAllRecommendationsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Queries\\GetAllRecommendations\\GetAllRecommendationsQueryHandler.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\Queries\\GetAllRecommendations\\GetAllRecommendationsQueryHandler.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Queries\\GetAllRecommendations\\GetAllRecommendationsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Queries\\GetAllRecommendations\\GetAllRecommendationsQueryHandler.cs",
               "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\Queries\\GetAllRecommendations\\GetAllRecommendationsQueryHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T17:23:08.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T17:23:08.34Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "RecommendationDto.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Dtos\\RecommendationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Dtos\\RecommendationDto.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\Dtos\\RecommendationDto.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Dtos\\RecommendationDto.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Dtos\\RecommendationDto.cs",
               "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\Dtos\\RecommendationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T19:47:15.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T19:47:15.167Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "GetRecommendationByIdQuery.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationById\\GetRecommendationByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationById\\GetRecommendationByIdQuery.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationById\\GetRecommendationByIdQuery.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationById\\GetRecommendationByIdQuery.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationById\\GetRecommendationByIdQuery.cs",
               "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationById\\GetRecommendationByIdQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T17:23:41.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T17:23:41.433Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "GetRecommendationByIdQueryHandler.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationById\\GetRecommendationByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationById\\GetRecommendationByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationById\\GetRecommendationByIdQueryHandler.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationById\\GetRecommendationByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationById\\GetRecommendationByIdQueryHandler.cs",
               "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\Queries\\GetRecommendationById\\GetRecommendationByIdQueryHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T17:23:51.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T17:23:51.999Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "IRecommendationRepository.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Domain\\Repositories\\IRecommendationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Domain\\Repositories\\IRecommendationRepository.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Domain\\Repositories\\IRecommendationRepository.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Domain\\Repositories\\IRecommendationRepository.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Domain\\Repositories\\IRecommendationRepository.cs",
               "RelativeToolTip": "SleepMonitor.Domain\\Repositories\\IRecommendationRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T12:06:56.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T12:06:56.844Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "GetAllRecommendationsQuery.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Queries\\GetAllRecommendations\\GetAllRecommendationsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Queries\\GetAllRecommendations\\GetAllRecommendationsQuery.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\Queries\\GetAllRecommendations\\GetAllRecommendationsQuery.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Queries\\GetAllRecommendations\\GetAllRecommendationsQuery.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Queries\\GetAllRecommendations\\GetAllRecommendationsQuery.cs",
               "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\Queries\\GetAllRecommendations\\GetAllRecommendationsQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T17:22:52.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T17:22:52.21Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "SleepRecordProfile.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\SleepRecords\\Dtos\\SleepRecordProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\SleepRecords\\Dtos\\SleepRecordProfile.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Application\\SleepRecords\\Dtos\\SleepRecordProfile.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\SleepRecords\\Dtos\\SleepRecordProfile.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\SleepRecords\\Dtos\\SleepRecordProfile.cs",
               "RelativeToolTip": "SleepMonitor.Application\\SleepRecords\\Dtos\\SleepRecordProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T17:23:17.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T17:23:17.084Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "SleepRecordDto.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\SleepRecords\\Dtos\\SleepRecordDto.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\SleepRecords\\Dtos\\SleepRecordDto.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Application\\SleepRecords\\Dtos\\SleepRecordDto.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\SleepRecords\\Dtos\\SleepRecordDto.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\SleepRecords\\Dtos\\SleepRecordDto.cs",
               "RelativeToolTip": "SleepMonitor.Application\\SleepRecords\\Dtos\\SleepRecordDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -541,9 +517,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "SleepRecommendationDto.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Dtos\\SleepRecommendationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Dtos\\SleepRecommendationDto.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\Dtos\\SleepRecommendationDto.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Dtos\\SleepRecommendationDto.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Dtos\\SleepRecommendationDto.cs",
               "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\Dtos\\SleepRecommendationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -553,9 +529,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "RecommendationProfile.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Dtos\\RecommendationProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Dtos\\RecommendationProfile.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\Dtos\\RecommendationProfile.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Dtos\\RecommendationProfile.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Dtos\\RecommendationProfile.cs",
               "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\Dtos\\RecommendationProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAUwAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -565,9 +541,9 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "Recommendation.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Domain\\Entities\\Recommendation.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Domain\\Entities\\Recommendation.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Domain\\Entities\\Recommendation.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Domain\\Entities\\Recommendation.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Domain\\Entities\\Recommendation.cs",
               "RelativeToolTip": "SleepMonitor.Domain\\Entities\\Recommendation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -577,9 +553,9 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "ErrorHandlingMiddleware.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.API\\Middleware\\ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.API\\Middleware\\ErrorHandlingMiddleware.cs",
               "RelativeDocumentMoniker": "SleepMonitor.API\\Middleware\\ErrorHandlingMiddleware.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.API\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.API\\Middleware\\ErrorHandlingMiddleware.cs",
               "RelativeToolTip": "SleepMonitor.API\\Middleware\\ErrorHandlingMiddleware.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -589,9 +565,9 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "ServiceCollectionExtensions.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Extensions\\ServiceCollectionExtensions.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Application\\Extensions\\ServiceCollectionExtensions.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Extensions\\ServiceCollectionExtensions.cs",
               "RelativeToolTip": "SleepMonitor.Application\\Extensions\\ServiceCollectionExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -601,9 +577,9 @@
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "IdentityController.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.API\\Controllers\\IdentityController.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.API\\Controllers\\IdentityController.cs",
               "RelativeDocumentMoniker": "SleepMonitor.API\\Controllers\\IdentityController.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.API\\Controllers\\IdentityController.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.API\\Controllers\\IdentityController.cs",
               "RelativeToolTip": "SleepMonitor.API\\Controllers\\IdentityController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -613,9 +589,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "ServiceCollectionExtentions.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Infrastructure\\Extensions\\ServiceCollectionExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Infrastructure\\Extensions\\ServiceCollectionExtentions.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Infrastructure\\Extensions\\ServiceCollectionExtentions.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Infrastructure\\Extensions\\ServiceCollectionExtentions.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Infrastructure\\Extensions\\ServiceCollectionExtentions.cs",
               "RelativeToolTip": "SleepMonitor.Infrastructure\\Extensions\\ServiceCollectionExtentions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -625,9 +601,9 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "IoTDataController.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.API\\Controllers\\IoTDataController.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.API\\Controllers\\IoTDataController.cs",
               "RelativeDocumentMoniker": "SleepMonitor.API\\Controllers\\IoTDataController.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.API\\Controllers\\IoTDataController.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.API\\Controllers\\IoTDataController.cs",
               "RelativeToolTip": "SleepMonitor.API\\Controllers\\IoTDataController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAA0wBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -637,9 +613,9 @@
               "$type": "Document",
               "DocumentIndex": 46,
               "Title": "20241219194618_RecommendationAdditionalProperties.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Infrastructure\\Migrations\\20241219194618_RecommendationAdditionalProperties.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Infrastructure\\Migrations\\20241219194618_RecommendationAdditionalProperties.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Infrastructure\\Migrations\\20241219194618_RecommendationAdditionalProperties.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Infrastructure\\Migrations\\20241219194618_RecommendationAdditionalProperties.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Infrastructure\\Migrations\\20241219194618_RecommendationAdditionalProperties.cs",
               "RelativeToolTip": "SleepMonitor.Infrastructure\\Migrations\\20241219194618_RecommendationAdditionalProperties.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -649,9 +625,9 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "PropertyType.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Domain\\Enums\\PropertyType.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Domain\\Enums\\PropertyType.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Domain\\Enums\\PropertyType.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Domain\\Enums\\PropertyType.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Domain\\Enums\\PropertyType.cs",
               "RelativeToolTip": "SleepMonitor.Domain\\Enums\\PropertyType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -661,9 +637,9 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "ComparisonType.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Domain\\Enums\\ComparisonType.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Domain\\Enums\\ComparisonType.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Domain\\Enums\\ComparisonType.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Domain\\Enums\\ComparisonType.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Domain\\Enums\\ComparisonType.cs",
               "RelativeToolTip": "SleepMonitor.Domain\\Enums\\ComparisonType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -673,9 +649,9 @@
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "IotDataRepository.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Infrastructure\\Repositories\\IotDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Infrastructure\\Repositories\\IotDataRepository.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Infrastructure\\Repositories\\IotDataRepository.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Infrastructure\\Repositories\\IotDataRepository.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Infrastructure\\Repositories\\IotDataRepository.cs",
               "RelativeToolTip": "SleepMonitor.Infrastructure\\Repositories\\IotDataRepository.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAIwCsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -685,9 +661,9 @@
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "GetIoTDataByDateRangeQuery.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\IoTDatas\\Queries\\GetIoTDataByDateRange\\GetIoTDataByDateRangeQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\IoTDatas\\Queries\\GetIoTDataByDateRange\\GetIoTDataByDateRangeQuery.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Application\\IoTDatas\\Queries\\GetIoTDataByDateRange\\GetIoTDataByDateRangeQuery.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\IoTDatas\\Queries\\GetIoTDataByDateRange\\GetIoTDataByDateRangeQuery.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\IoTDatas\\Queries\\GetIoTDataByDateRange\\GetIoTDataByDateRangeQuery.cs",
               "RelativeToolTip": "SleepMonitor.Application\\IoTDatas\\Queries\\GetIoTDataByDateRange\\GetIoTDataByDateRangeQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -697,9 +673,9 @@
               "$type": "Document",
               "DocumentIndex": 38,
               "Title": "GetIoTDataByDateRangeQueryHandler.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\IoTDatas\\Queries\\GetIoTDataByDateRange\\GetIoTDataByDateRangeQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\IoTDatas\\Queries\\GetIoTDataByDateRange\\GetIoTDataByDateRangeQueryHandler.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Application\\IoTDatas\\Queries\\GetIoTDataByDateRange\\GetIoTDataByDateRangeQueryHandler.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\IoTDatas\\Queries\\GetIoTDataByDateRange\\GetIoTDataByDateRangeQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\IoTDatas\\Queries\\GetIoTDataByDateRange\\GetIoTDataByDateRangeQueryHandler.cs",
               "RelativeToolTip": "SleepMonitor.Application\\IoTDatas\\Queries\\GetIoTDataByDateRange\\GetIoTDataByDateRangeQueryHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -709,9 +685,9 @@
               "$type": "Document",
               "DocumentIndex": 40,
               "Title": "IIotDataRepository.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Domain\\Repositories\\IIotDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Domain\\Repositories\\IIotDataRepository.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Domain\\Repositories\\IIotDataRepository.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Domain\\Repositories\\IIotDataRepository.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Domain\\Repositories\\IIotDataRepository.cs",
               "RelativeToolTip": "SleepMonitor.Domain\\Repositories\\IIotDataRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -721,9 +697,9 @@
               "$type": "Document",
               "DocumentIndex": 39,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.API\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.API\\Program.cs",
               "RelativeDocumentMoniker": "SleepMonitor.API\\Program.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.API\\Program.cs",
               "RelativeToolTip": "SleepMonitor.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -733,9 +709,9 @@
               "$type": "Document",
               "DocumentIndex": 41,
               "Title": "AddRecommendationCommand.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Commands\\AddRecommendation\\AddRecommendationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Commands\\AddRecommendation\\AddRecommendationCommand.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\Commands\\AddRecommendation\\AddRecommendationCommand.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Commands\\AddRecommendation\\AddRecommendationCommand.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Commands\\AddRecommendation\\AddRecommendationCommand.cs",
               "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\Commands\\AddRecommendation\\AddRecommendationCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -745,9 +721,9 @@
               "$type": "Document",
               "DocumentIndex": 42,
               "Title": "DeleteRecommendationCommandHandler.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Commands\\DeleteRecommendation\\DeleteRecommendationCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Commands\\DeleteRecommendation\\DeleteRecommendationCommandHandler.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\Commands\\DeleteRecommendation\\DeleteRecommendationCommandHandler.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Commands\\DeleteRecommendation\\DeleteRecommendationCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Commands\\DeleteRecommendation\\DeleteRecommendationCommandHandler.cs",
               "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\Commands\\DeleteRecommendation\\DeleteRecommendationCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -757,9 +733,9 @@
               "$type": "Document",
               "DocumentIndex": 44,
               "Title": "DeleteRecommendationCommand.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Commands\\DeleteRecommendation\\DeleteRecommendationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Commands\\DeleteRecommendation\\DeleteRecommendationCommand.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\Commands\\DeleteRecommendation\\DeleteRecommendationCommand.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Commands\\DeleteRecommendation\\DeleteRecommendationCommand.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Commands\\DeleteRecommendation\\DeleteRecommendationCommand.cs",
               "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\Commands\\DeleteRecommendation\\DeleteRecommendationCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -769,9 +745,9 @@
               "$type": "Document",
               "DocumentIndex": 43,
               "Title": "AddRecommendationCommandHandler.cs",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Commands\\AddRecommendation\\AddRecommendationCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Commands\\AddRecommendation\\AddRecommendationCommandHandler.cs",
               "RelativeDocumentMoniker": "SleepMonitor.Application\\Recommendations\\Commands\\AddRecommendation\\AddRecommendationCommandHandler.cs",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\Recommendations\\Commands\\AddRecommendation\\AddRecommendationCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\Recommendations\\Commands\\AddRecommendation\\AddRecommendationCommandHandler.cs",
               "RelativeToolTip": "SleepMonitor.Application\\Recommendations\\Commands\\AddRecommendation\\AddRecommendationCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -781,9 +757,9 @@
               "$type": "Document",
               "DocumentIndex": 45,
               "Title": "SleepMonitor.Application.csproj",
-              "DocumentMoniker": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\SleepMonitor.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\SleepMonitor.Application.csproj",
               "RelativeDocumentMoniker": "SleepMonitor.Application\\SleepMonitor.Application.csproj",
-              "ToolTip": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\SleepMonitor.Application.csproj",
+              "ToolTip": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\SleepMonitor.Application.csproj",
               "RelativeToolTip": "SleepMonitor.Application\\SleepMonitor.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

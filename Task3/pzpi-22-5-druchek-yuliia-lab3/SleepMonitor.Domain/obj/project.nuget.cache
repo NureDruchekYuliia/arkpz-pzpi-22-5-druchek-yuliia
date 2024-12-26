@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o5YKCTS1I4k=",
+  "dgSpecHash": "1C7t+Me4Ui0=",
   "success": true,
-  "projectFilePath": "D:\\projects\\SleepMonitor\\SleepMonitor.Domain\\SleepMonitor.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Domain\\SleepMonitor.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Serhii\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.11\\microsoft.aspnetcore.cryptography.internal.8.0.11.nupkg.sha512",
     "C:\\Users\\Serhii\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.11\\microsoft.aspnetcore.cryptography.keyderivation.8.0.11.nupkg.sha512",

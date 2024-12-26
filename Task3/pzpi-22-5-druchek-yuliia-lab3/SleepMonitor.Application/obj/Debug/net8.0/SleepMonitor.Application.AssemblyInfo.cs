@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SleepMonitor.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6a788993cc4a27f05aa01037b4355ae79e39a67")]
 [assembly: System.Reflection.AssemblyProductAttribute("SleepMonitor.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SleepMonitor.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V9RfaNPcihg=",
+  "dgSpecHash": "W1VDw9rWiu0=",
   "success": true,
-  "projectFilePath": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\SleepMonitor.Application.csproj",
+  "projectFilePath": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\SleepMonitor.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Serhii\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Serhii\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

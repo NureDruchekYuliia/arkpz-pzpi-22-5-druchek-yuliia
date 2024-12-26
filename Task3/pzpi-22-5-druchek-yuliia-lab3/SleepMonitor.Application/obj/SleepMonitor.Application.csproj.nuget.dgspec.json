@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\SleepMonitor.Application.csproj": {}
+    "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\SleepMonitor.Application.csproj": {}
   },
   "projects": {
-    "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\SleepMonitor.Application.csproj": {
+    "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\SleepMonitor.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\SleepMonitor.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\SleepMonitor.Application.csproj",
         "projectName": "SleepMonitor.Application",
-        "projectPath": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\SleepMonitor.Application.csproj",
+        "projectPath": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\SleepMonitor.Application.csproj",
         "packagesPath": "C:\\Users\\Serhii\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\SleepMonitor\\SleepMonitor.Application\\obj\\",
+        "outputPath": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\projects\\SleepMonitor\\SleepMonitor.Domain\\SleepMonitor.Domain.csproj": {
-                "projectPath": "D:\\projects\\SleepMonitor\\SleepMonitor.Domain\\SleepMonitor.Domain.csproj"
+              "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Domain\\SleepMonitor.Domain.csproj": {
+                "projectPath": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Domain\\SleepMonitor.Domain.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "D:\\projects\\SleepMonitor\\SleepMonitor.Domain\\SleepMonitor.Domain.csproj": {
+    "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Domain\\SleepMonitor.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\SleepMonitor\\SleepMonitor.Domain\\SleepMonitor.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Domain\\SleepMonitor.Domain.csproj",
         "projectName": "SleepMonitor.Domain",
-        "projectPath": "D:\\projects\\SleepMonitor\\SleepMonitor.Domain\\SleepMonitor.Domain.csproj",
+        "projectPath": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Domain\\SleepMonitor.Domain.csproj",
         "packagesPath": "C:\\Users\\Serhii\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\SleepMonitor\\SleepMonitor.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Serhii\\Documents\\GitHub\\arkpz-pzpi-22-5-druchek-yuliia\\Task3\\pzpi-22-5-druchek-yuliia-lab3\\SleepMonitor.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -10,3 +10,16 @@ D:\projects\SleepMonitor\SleepMonitor.Domain\obj\Debug\net8.0\refint\SleepMonito
 D:\projects\SleepMonitor\SleepMonitor.Domain\obj\Debug\net8.0\SleepMonitor.Domain.pdb
 D:\projects\SleepMonitor\SleepMonitor.Domain\obj\Debug\net8.0\ref\SleepMonitor.Domain.dll
 D:\projects\SleepMonitor\SleepMonitor.Domain\obj\Debug\net8.0\SleepMonitor.Domain.csproj.AssemblyReference.cache
+C:\Users\Serhii\Documents\GitHub\arkpz-pzpi-22-5-druchek-yuliia\Task3\pzpi-22-5-druchek-yuliia-lab3\SleepMonitor.Domain\bin\Debug\net8.0\SleepMonitor.Domain.deps.json
+C:\Users\Serhii\Documents\GitHub\arkpz-pzpi-22-5-druchek-yuliia\Task3\pzpi-22-5-druchek-yuliia-lab3\SleepMonitor.Domain\bin\Debug\net8.0\SleepMonitor.Domain.dll
+C:\Users\Serhii\Documents\GitHub\arkpz-pzpi-22-5-druchek-yuliia\Task3\pzpi-22-5-druchek-yuliia-lab3\SleepMonitor.Domain\bin\Debug\net8.0\SleepMonitor.Domain.pdb
+C:\Users\Serhii\Documents\GitHub\arkpz-pzpi-22-5-druchek-yuliia\Task3\pzpi-22-5-druchek-yuliia-lab3\SleepMonitor.Domain\obj\Debug\net8.0\SleepMonitor.Domain.csproj.AssemblyReference.cache
+C:\Users\Serhii\Documents\GitHub\arkpz-pzpi-22-5-druchek-yuliia\Task3\pzpi-22-5-druchek-yuliia-lab3\SleepMonitor.Domain\obj\Debug\net8.0\SleepMonitor.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhii\Documents\GitHub\arkpz-pzpi-22-5-druchek-yuliia\Task3\pzpi-22-5-druchek-yuliia-lab3\SleepMonitor.Domain\obj\Debug\net8.0\SleepMonitor.Domain.AssemblyInfoInputs.cache
+C:\Users\Serhii\Documents\GitHub\arkpz-pzpi-22-5-druchek-yuliia\Task3\pzpi-22-5-druchek-yuliia-lab3\SleepMonitor.Domain\obj\Debug\net8.0\SleepMonitor.Domain.AssemblyInfo.cs
+C:\Users\Serhii\Documents\GitHub\arkpz-pzpi-22-5-druchek-yuliia\Task3\pzpi-22-5-druchek-yuliia-lab3\SleepMonitor.Domain\obj\Debug\net8.0\SleepMonitor.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Serhii\Documents\GitHub\arkpz-pzpi-22-5-druchek-yuliia\Task3\pzpi-22-5-druchek-yuliia-lab3\SleepMonitor.Domain\obj\Debug\net8.0\SleepMonitor.Domain.sourcelink.json
+C:\Users\Serhii\Documents\GitHub\arkpz-pzpi-22-5-druchek-yuliia\Task3\pzpi-22-5-druchek-yuliia-lab3\SleepMonitor.Domain\obj\Debug\net8.0\SleepMonitor.Domain.dll
+C:\Users\Serhii\Documents\GitHub\arkpz-pzpi-22-5-druchek-yuliia\Task3\pzpi-22-5-druchek-yuliia-lab3\SleepMonitor.Domain\obj\Debug\net8.0\refint\SleepMonitor.Domain.dll
+C:\Users\Serhii\Documents\GitHub\arkpz-pzpi-22-5-druchek-yuliia\Task3\pzpi-22-5-druchek-yuliia-lab3\SleepMonitor.Domain\obj\Debug\net8.0\SleepMonitor.Domain.pdb
+C:\Users\Serhii\Documents\GitHub\arkpz-pzpi-22-5-druchek-yuliia\Task3\pzpi-22-5-druchek-yuliia-lab3\SleepMonitor.Domain\obj\Debug\net8.0\ref\SleepMonitor.Domain.dll
